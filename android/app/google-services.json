@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561521634588",
+    "project_id": "fyp2022-e04ab",
+    "storage_bucket": "fyp2022-e04ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561521634588:android:242dd3bbc1bf9856295ed9",
+        "android_client_info": {
+          "package_name": "com.example.wedding_venue_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561521634588-0u8hnhp2klk9jv7rkpfu6pcuuudou5n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_tkTB0XhGhd32Z9ki7QjZaxF8OXGKQag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561521634588-0u8hnhp2klk9jv7rkpfu6pcuuudou5n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
